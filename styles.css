@@ -1,0 +1,39 @@
+.font {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.bg-color {
+    background-color: #b68c5a !important;
+}
+
+
+.b_txt{
+    font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 800;
+font-size: 72px;
+line-height: 85px;
+text-align: center;
+color: #FFFFFF;
+
+}
+p_txt{
+    font-family: 'Poppins', sans-serif;
+
+
+/* or 162% */
+
+text-align: center;
+
+/* Dark 06 */
+
+color: #E7E7E7;
+
+}
+.font-1{
+    font-family: 'EB Garamond';
+    text-align: center;
+}
+.f_txt{
+    font-family: 'Poppins', sans-serif;
+}
